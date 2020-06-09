@@ -1,0 +1,15 @@
+#Prerequisites
+1. JAVA JDK - https://www.oracle.com/java/technologies/javase-jdk14-downloads.html
+2. Elasticsearch - https://www.elastic.co/downloads/elasticsearch
+3. Kibana - https://www.elastic.co/downloads/kibana
+
+#Start Elasticsearch Local Server
+command: bin/elasticsearch
+run: elasticsearch.bat
+
+#Start Kibana Server
+command: bin/kibana
+run: kibana.bat
+
+#Access Kibana using browser
+Address: http://localhost:5601
